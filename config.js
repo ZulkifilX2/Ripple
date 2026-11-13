@@ -3,7 +3,7 @@
   This file contains no private credentials. It is visible to visitors.
 */
 window.SITE_CONFIG = {
-  https://youtu.be/iFPncz3isHk?si=h8q5xQeCWRb9KEkA
+  videoUrl: "https://youtu.be/iFPncz3isHk",
   durationLabel: "Approximately 9 minutes",
   courseLabel: "GUL1001 · Embrace@UMLEADER",
   institution: "Universiti Malaya",
