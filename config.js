@@ -1,13 +1,5 @@
 /*
-  THE RIPPLE EFFECT — EDIT THIS FILE TO PUBLISH YOUR OWN FILM.
-
-  1. Upload your final video as YouTube UNLISTED (recommended), or upload to Google Drive
-     and enable General access: Anyone with the link -> Viewer.
-  2. Paste the full URL between the quotes in videoUrl below.
-  3. Correct all chapter timestamps after watching your FINAL video.
-  4. Replace Member 01...Member 10 with your actual cast names.
-  5. Save, then deploy your folder / ZIP to Vercel.
-
+  THE RIPPLE EFFECT 
   This file contains no private credentials. It is visible to visitors.
 */
 window.SITE_CONFIG = {
