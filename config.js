@@ -16,15 +16,15 @@ window.SITE_CONFIG = {
     { id: "act3", title: "Impact or Publicity?", time: 365, tag: "03 — SOCIETAL" }
   ],
   team: [
-    { name: "Member 01", role: "Aina", act: "Act I" },
-    { name: "Member 02", role: "Rafi", act: "Act I" },
-    { name: "Member 03", role: "Sara", act: "Act I" },
-    { name: "Member 04", role: "Mira", act: "Act II" },
-    { name: "Muhammad Zulkifil Kuchai", role: "Hakim", act: "Act II" },
-    { name: "Member 06", role: "Jia", act: "Act II" },
-    { name: "Member 07", role: "Iman", act: "Act III" },
-    { name: "Member 08", role: "Zed", act: "Act III" },
-    { name: "Member 09", role: "Ms Tan", act: "Act III" },
-    { name: "Member 10", role: "Leena", act: "Act III" }
+    { name: "FARISYA QISTINA BINTI HANIZAL", role: "Aina", act: "Act I" },
+    { name: "NOR FARIQY JAZLY BIN MOHAMAD NOORDIN", role: "Rafi", act: "Act I" },
+    { name: "WANG YUN AI", role: "Sara", act: "Act I" },
+    { name: "LILY HANNAH BINTI ROSZAIDI", role: "Mira", act: "Act II" },
+    { name: "MUHAMMAD ZULKIFIL KUCHAI", role: "Hakim", act: "Act II" },
+    { name: "JAC CHEE", role: "Jia", act: "Act II" },
+    { name: "ZANBIE", role: "Iman", act: "Act III" },
+    { name: "MUHAMMAD RAFFIQ BIN ABDUL RASHID", role: "Zed", act: "Act III" },
+    { name: "ALEENA BINTI KHALED MARGANY", role: "Ms Tan", act: "Act III" },
+    { name: "NADIA REYHANA ALESHA", role: "Leena", act: "Act III" }
   ]
 };
