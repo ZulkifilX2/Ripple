@@ -8,7 +8,7 @@ window.SITE_CONFIG = {
   courseLabel: "GUL1001 · Embrace@UMLEADER",
   institution: "Universiti Malaya",
   academicYear: "2026/27",
-  // Adjust these timestamps to match the completed edit; these are estimates from the screenplay.
+  // Adjust these timestamps to match the completed edit.
   chapters: [
     { id: "intro", title: "Prologue", time: 0, tag: "THE BEGINNING" },
     { id: "act1", title: "The Price of Friendship", time: 15, tag: "01 — PERSONAL" },
