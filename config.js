@@ -12,8 +12,8 @@ window.SITE_CONFIG = {
   chapters: [
     { id: "intro", title: "Prologue", time: 0, tag: "THE BEGINNING" },
     { id: "act1", title: "The Price of Friendship", time: 15, tag: "01 — PERSONAL" },
-    { id: "act2", title: "The Perfect Data", time: 190, tag: "02 — ACADEMIC" },
-    { id: "act3", title: "Impact or Publicity?", time: 365, tag: "03 — SOCIETAL" }
+    { id: "act2", title: "The Perfect Data", time: 260, tag: "02 — ACADEMIC" },
+    { id: "act3", title: "Impact or Publicity?", time: 408, tag: "03 — SOCIETAL" }
   ],
   team: [
     { name: "FARISYA QISTINA BINTI HANIZAL", role: "Aina", act: "Act I" },
